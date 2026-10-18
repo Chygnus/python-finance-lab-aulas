@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Arquivos que os próprios notebooks criam quando você roda
+notebooks/financas.py
+notebooks/candles_*.csv
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
