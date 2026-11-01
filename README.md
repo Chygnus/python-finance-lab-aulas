@@ -25,7 +25,7 @@ Cada notebook é publicado aqui junto com o vídeo da aula. Se o link de uma aul
 | 6 | Qual a "melhor" combinação de pesos? | NumPy, sorteio de milhares de carteiras | [Aula_06.ipynb](notebooks/Aula_06.ipynb) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Chygnus/python-finance-lab-aulas/blob/main/notebooks/Aula_06.ipynb) | [▶ Assistir](https://www.youtube.com/watch?v=iier5DhO3iU) |
 | 7 | Como baixar dados de cripto direto da fonte? | API com parâmetros, JSON, `while`, plotly | [Aula_07.ipynb](notebooks/Aula_07.ipynb) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Chygnus/python-finance-lab-aulas/blob/main/notebooks/Aula_07.ipynb) | [▶ Assistir](https://www.youtube.com/watch?v=kQ-kEIsJ3LA) |
 | 8 | E se 5% da carteira fosse Bitcoin? | Alinhar calendários e fusos horários | [Aula_08.ipynb](notebooks/Aula_08.ipynb) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Chygnus/python-finance-lab-aulas/blob/main/notebooks/Aula_08.ipynb) | [▶ Assistir](https://www.youtube.com/watch?v=qYH6lXjF-HQ) |
-| 9 | Média móvel funciona? | `rolling`, sinais, `shift` | [Aula_09.ipynb](notebooks/Aula_09.ipynb) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Chygnus/python-finance-lab-aulas/blob/main/notebooks/Aula_09.ipynb) | em breve |
+| 9 | Média móvel funciona? | `rolling`, sinais, `shift` | [Aula_09.ipynb](notebooks/Aula_09.ipynb) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Chygnus/python-finance-lab-aulas/blob/main/notebooks/Aula_09.ipynb) | [▶ Assistir](https://www.youtube.com/watch?v=fpIUMM76Ag8) |
 | 10 | Quanto essa carteira pode valer em 10 anos? | Módulo `.py` próprio, `ipywidgets` | [Aula_10.ipynb](notebooks/Aula_10.ipynb) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Chygnus/python-finance-lab-aulas/blob/main/notebooks/Aula_10.ipynb) | em breve |
 
 ## Como usar
@@ -51,7 +51,7 @@ Se aparecer `ModuleNotFoundError` logo depois de instalar uma biblioteca, reinic
 ## A carteira e as premissas
 
 - **Carteira:** ITUB4, VALE3, PETR4, WEGE3, ABEV3, EGIE3, SUZB3, RADL3, VIVT3 e TOTS3, uma ação por setor. É um exemplo didático, não uma recomendação.
-- **Período:** de 01/10/2021 a 30/09/2026. As datas são fixas para que todo mundo que rodar o notebook chegue aos mesmos números do vídeo.
+- **Período:** de 01/10/2021 a 30/09/2026. As datas são fixas para que todo mundo que rodar o notebook chegue aos mesmos números do vídeo. A aula 9 estende o estudo até 29/10/2026 para incluir o mês da eleição.
 - **Dinheiro:** capital inicial de R\$ 2.000, ou seja, R\$ 200 em cada ação. A partir da aula 3, entra um aporte de R\$ 200 por mês.
 - **Comparação:** sempre contra o Ibovespa e o CDI, sem custos e impostos, exceto nas aulas que tratam deles.
 
